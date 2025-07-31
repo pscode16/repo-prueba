@@ -1,4 +1,4 @@
-nombre = 'pablo suarez'
+nombre = 'pedro suarez'
 print('Hola '+nombre)
 
 
